@@ -16,6 +16,7 @@ function App() {
       left: Math.random() * 1000,
     });
   };
+  //test
 
   return (
     <div className="root">
